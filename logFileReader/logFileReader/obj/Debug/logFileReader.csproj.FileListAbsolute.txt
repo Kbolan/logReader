@@ -1,0 +1,9 @@
+C:\Users\Kevin\Documents\GRM\logReader\logFileReader\logFileReader\bin\Debug\logFileReader.exe.config
+C:\Users\Kevin\Documents\GRM\logReader\logFileReader\logFileReader\bin\Debug\logFileReader.exe
+C:\Users\Kevin\Documents\GRM\logReader\logFileReader\logFileReader\bin\Debug\logFileReader.pdb
+C:\Users\Kevin\Documents\GRM\logReader\logFileReader\logFileReader\obj\Debug\logFileReader.Form1.resources
+C:\Users\Kevin\Documents\GRM\logReader\logFileReader\logFileReader\obj\Debug\logFileReader.Properties.Resources.resources
+C:\Users\Kevin\Documents\GRM\logReader\logFileReader\logFileReader\obj\Debug\logFileReader.csproj.GenerateResource.Cache
+C:\Users\Kevin\Documents\GRM\logReader\logFileReader\logFileReader\obj\Debug\logFileReader.exe
+C:\Users\Kevin\Documents\GRM\logReader\logFileReader\logFileReader\obj\Debug\logFileReader.pdb
+C:\Users\Kevin\Documents\GRM\logReader\logFileReader\logFileReader\obj\Debug\logFileReader.csprojResolveAssemblyReference.cache
